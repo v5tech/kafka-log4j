@@ -2,7 +2,7 @@
 
 ### 搭建Kafka环境
 
-https://github.com/sxyx2008/storm-example/blob/master/kafka集群搭建.md
+https://github.com/ameizi/storm-example/blob/master/kafka集群搭建.md
 
 #### 安装zookeeper
 
@@ -208,5 +208,3 @@ log4j.appender.console.target=System.out
 log4j.appender.console.layout=org.apache.log4j.PatternLayout
 log4j.appender.console.layout.ConversionPattern=%d [%-5p] [%t] - [%l] %m%n
 ```
-
-http://my.oschina.net/itblog/blog/540918
